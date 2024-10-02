@@ -1,2 +1,2 @@
 # Learning_javascript
-here is ny project which show my skills toward javascript
+here is my project which show my skills toward javascript
